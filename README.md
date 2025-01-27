@@ -42,7 +42,3 @@ Use the data to complete the following tasks in `medical_data_visualizer.py`:
 Any time a variable is set to `None`, make sure to set it to the correct code.
 
 Unit tests are written for you under `test_module.py`.
-
-<br>
-
-[FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
